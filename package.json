@@ -1,0 +1,23 @@
+{
+  "name": "vtubestudiotwtichpoints",
+  "version": "1.0.0",
+  "description": "A VtubeStudio/Twitch points integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servo98/VTubeStudioTwtichPoints.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servo98/VTubeStudioTwtichPoints/issues"
+  },
+  "homepage": "https://github.com/servo98/VTubeStudioTwtichPoints#readme",
+  "dependencies": {
+    "ws": "^8.2.2"
+  }
+}
